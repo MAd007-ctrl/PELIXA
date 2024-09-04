@@ -1,0 +1,6 @@
+package com.example.pelixa
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
